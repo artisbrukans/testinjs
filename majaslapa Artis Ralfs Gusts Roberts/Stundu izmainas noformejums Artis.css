@@ -1,0 +1,28 @@
+.malas {
+	border: 2px solid black;
+	text-align: center
+	border-style: solid;
+	border-color: #00995c;
+	padding-top: 8px;
+	padding-right: 80px;
+	padding-bottom: 8px;
+	padding-left: 80px;
+	background: #00e68a;
+}
+h1 {
+	text-align: center;
+	font-size: 35px;
+}
+body {
+	text-align: center;
+	background-color: #00cc7a;
+}
+h2 {
+	text-align: left;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

@@ -1,0 +1,56 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.malas {
+	border: 2px solid black;
+	text-align: center;
+	border-style: solid;
+	border-color: #00995c;
+	padding-top: 8px;
+	padding-right: 80px;
+	padding-bottom: 8px;
+	padding-left: 80px;
+	background: #00e68a;
+}
+.vidus {
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+	background-color: #00cc7a;
+}
+.malas2 {
+	padding-top: 8px;
+	padding-right: 391px;
+	padding-bottom: 8px;
+	padding-left: 80px;
+}
+.malas3 {
+	border: 2px solid black;
+	border-style: solid;
+	border-color: #00995c;
+	padding-top: 8px;
+	padding-right: 55px;
+	padding-bottom: 8px;
+	padding-left: 20px;
+	background: #00cc7a;
+}
+.teksts {
+	color: black;
+	font-weight: normal;
+}
+.izcelts {
+	color: black;
+	font-weight: bold;
+	text-indent: 50px;
+}
+h1, h2, h3, h4 {
+	font-size: 25px;
+	text-align: center;
+}
+p {
+	font-size: 18px;
+}
